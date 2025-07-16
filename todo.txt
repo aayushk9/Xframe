@@ -1,0 +1,5 @@
+TODOs
+
+> enable backend functionality i.e how to get specific image album/img rendered at first place
+> at frontend we just gotta send the request at correct api endpoint and get images
+> upvote/devote feature for albums
